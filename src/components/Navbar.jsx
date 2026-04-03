@@ -50,7 +50,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <Link to="/" className="flex items-center gap-2 text-red-600 font-bold text-2xl hover:text-red-500 transition-colors z-50">
                     <Play fill="currentColor" size={28} />
-                    <span className="tracking-tight">MOVIESDA</span>
+                    <span className="tracking-tight">MUSTARD</span>
                 </Link>
 
                 {/* Navigation Links (Hidden when search is actively expanded on mobile, or just hide on search open) */}
